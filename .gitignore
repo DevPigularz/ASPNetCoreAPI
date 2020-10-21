@@ -341,3 +341,5 @@ healthchecksdb
 /CityInfo/CityInfo.API/obj/project.assets.json
 /CityInfo/CityInfo.API/obj
 Debug
+.vs
+*
